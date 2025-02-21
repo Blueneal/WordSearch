@@ -8,5 +8,13 @@ namespace WordSearch
 {
     internal class Words
     {
+        static void WordList()
+        {
+        }
+
+        static void WriteText()
+        {
+
+        }
     }
 }
